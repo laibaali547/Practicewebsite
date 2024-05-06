@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="navbar1">
+        <div class="childone">
+            <ul>
+                <a href="#HOME">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#ABOUT US">ABOUT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#GALLERY">GALLERY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#CONTACT US">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </ul>
+
+        </div>
+        <div class="childtwo">
+            <form>
+               
+
+                <input type="text" name="search" placeholder="Search....">
+               
+
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <div id="navbar2">
+        <h1 class="heading1">LUXURIOUS EVENT PLANNER</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Cupiditate facere odit expedita ratione esse
+            magni<br>
+            exercitationem aut laboriosam assumenda <br>qui sed dolorum voluptatem et asperiores, est, <br>facilis
+            consequuntur
+            maiores. Repudiandae!</p>
+
+        <button class="btn1">READ MORE</button>
+    </div>
+
+    <div id="navbar3">
+
+        <div>
+            <img src="/images/istockphoto-1177485677-170667a.webp" alt="" height="450px">
+
+        </div>
+        <div class="childthree">
+            <h1 class="heading2" id="ABOUT US">ABOUT US</h1>
+            <P>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Cupiditate facere odit expedita ratione
+                esse
+                magni<br>
+                exercitationem aut laboriosam assumenda <br>qui sed dolorum voluptatem et asperiores, est, <br>facilis
+                consequuntur
+                maiores. Repudiandae!
+
+            </P>
+
+
+        </div>
+
+    </div>
+
+    <div id="navbar4">
+        <div class="childfour">
+            <h1 class="heading3" id="SERVICES">SERVICES</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Cupiditate facere odit expedita ratione
+                esse
+                magni<br>
+                exercitationem aut laboriosam assumenda <br>qui sed dolorum voluptatem et asperiores, est, <br>facilis
+                consequuntur
+                maiores. Repudiandae!
+            </p>
+           
+
+        </div>
+        <div>
+            <img src="/images/img2.jpg" alt="">
+
+        </div>
+
+
+    </div>
+
+    <div id="navbar5">
+        <h1 class="heading4" id="GALLERY">GALLERY</h1>
+        <img src="/images/gallery1.webp" alt="" height="300px" width="300px">
+        <img src="/images/gallery2.webp" alt=""  height="300px" width="300px">
+        <img src="/images/gallery3.webp" alt=""  height="300px" width="300px">
+        <img src="/images/gallery4.webp" alt=""  height="300px" width="300px">
+
+        <div class="childfive">
+            <img src="/images/gallery5.webp" alt="" height="300px" width="300px">
+            <img src="/images/gallery6.webp" alt=""  height="300px" width="300px">
+            <img src="/images/gallery7.webp" alt=""  height="300px" width="300px">
+            <img src="/images/gallery8.webp" alt=""  height="300px" width="300px">
+        </div>
+       
+</div>
+
+<div id="navbar6">
+    <form>
+        <h1 clss="heading5" id="CONTACT US">FILL THE FORM</h1>
+        <br>
+        <br>
+        <p>FIRST NAME:
+         <input type="text" name="FIRST NAME" size="16" maxlength="40"/>
+        </p>
+        <BR>
+            <BR>
+                
+        <p>LAST NAME:
+            <input type="text" name="LAST NAME" size="16" maxlength="40"/>
+           </p>
+           <BR>
+            <BR>
+           <p>CONTACT  NUMBER:
+            <input type="NUMBER" name="" size="16" maxlength="40"/>
+           </p>
+        </form>
+        <br>
+        <br>
+        <form>
+           <P>SELECT YOUR EVENT</P>
+          
+           <input type="radio" name="event" value="wedding"/>wedding
+           <input type="radio" name="event" value="birthday party"/>birthday party
+           <input type="radio" name="event" value="destination venue"/>destination venue
+           <input type="radio" name="event" value="social event"/>social event
+           <br>
+           <br>
+           <button class="btn2">SUBMIT</button>
+        </form>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div id="childseven">
+       
+    <ul>
+        <li><a href="#HOME">HOME</a></li>
+        <br>
+        <br>
+        <br>
+        <br>
+        <li><a href="#ABOUT US">ABOUT US</a></li>
+        <br>
+        <br>
+        <br>
+        <br>
+        <li><a href="#GALLERY">GALLERY</a></li>
+    </ul>
+
+    <ul>
+        <li><a href="#SERVICES">SERVICES</a></li>
+        <br>
+        <br>
+        <br>
+        <br>
+      
+        <li><a href="#items">SERVICES</a></li>
+        <br>
+        <br>
+        <br>
+        <br>
+        <li><a href="#items">INFO</a></li>
+    </ul>
+
+
+
+
+</div>
+
+
+
+
+
+
+</body>
+
+</html>
